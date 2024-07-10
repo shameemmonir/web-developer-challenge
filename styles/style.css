@@ -46,3 +46,26 @@ nav ul li a {
     border-radius: 5px;
     border: none;
 }
+
+/* banner area style start here  */
+.banner-container{
+    /* width: 998px; */
+    height: 582px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    gap: 20px;
+}
+.btn-contact{
+    background-color: rgb(13, 19, 33);
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 22px;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: none;
+}
